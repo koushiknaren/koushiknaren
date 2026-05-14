@@ -4,7 +4,7 @@
 
 </div> 
 
-# Hi there, I'm Koushik Narendran 👋
+# Hi there, I'm Koushik Narendran 👋 
 
 ### Graduate Software Developer | AI & Machine Learning Enthusiast | Computer Science Graduate
 
