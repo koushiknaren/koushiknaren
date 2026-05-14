@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Graduate+Software+Developer;Machine+Learning+%26+Computer+Vision+Enthusiast;Python+Developer;AI+%7C+IoT+%7C+Data+Analytics;Open+to+Graduate+Developer+Opportunities" alt="Typing SVG" />
 
-</div>
+</div> 
 
 # Hi there, I'm Koushik Narendran 👋
 
